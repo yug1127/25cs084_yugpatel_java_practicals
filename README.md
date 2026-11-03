@@ -21,6 +21,17 @@ The following professional Java certificates have been completed by **Yug Jaimin
 
 ---
 
+## 🏦 Course Mini Project: MiniBank Console System (`MiniProject.java`)
+
+A complete, self-contained single-file console banking application integrating core OOP principles (`25CS084_YugPatel_MiniProject.docx`):
+- **`BankAccount`**: Abstract base class implementing `Serializable`, encapsulating account attributes, PIN validation, deposit, and balance operations.
+- **`SavingsAccount`**: Enforces a minimum balance requirement (₹1,000) and calculates 4% annual interest credited directly to the account.
+- **`CurrentAccount`**: Provides an overdraft facility (up to ₹25,000 limit) for commercial/business transactions without interest accrual.
+- **`BankManager`**: Service layer managing accounts in a `HashMap`, executing credential checks and inter-account fund transfers.
+- **`MiniProject` / `Main`**: Full-featured interactive CLI dashboard allowing account creation, authenticated operations (check balance, deposit, withdraw, transfer funds, credit interest, change PIN), and administrator viewing of all accounts.
+
+---
+
 ## 💻 Practical Code Repository Overview (Practicals 1 to 14)
 
 This repository contains complete, self-contained Java source files for Practicals 1 through 14 of the Object-Oriented Programming (CEUE203) course, covering core to advanced Java concepts and building towards the MiniBank console project.
@@ -49,10 +60,12 @@ This repository contains complete, self-contained Java source files for Practica
 Prerequisites: JDK 17 or higher.
 
 ```bash
-# Compile any practical
-javac Practical01.java
+# Compile and run the Mini Project
+javac MiniProject.java
+java MiniProject
 
-# Run the practical demonstration
+# Compile and run any individual practical (e.g. Practical 01)
+javac Practical01.java
 java Practical01
 ```
 
