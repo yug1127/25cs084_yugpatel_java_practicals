@@ -8,7 +8,20 @@
 
 ---
 
-## Repository Overview
+## 📜 Coursera & LearnQuest Certifications
+
+The following professional Java certificates have been completed by **Yug Jaiminkumar Patel** and authorized by **LearnQuest** on **Coursera**:
+
+| # | Course Title | Completion Date | Verification Link | PDF Certificate |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | **Introduction to Java** | Oct 3, 2026 | [Verify Certificate](https://coursera.org/verify/5AMNXR8WAYVP) | [View PDF](certificates/Coursera_Introduction_to_Java.pdf) |
+| 2 | **Java Class Library** | Oct 4, 2026 | [Verify Certificate](https://coursera.org/verify/SZ3UMKU20W7I) | [View PDF](certificates/Coursera_Java_Class_Library.pdf) |
+| 3 | **Introduction to Object-Oriented Programming with Java** | Oct 4, 2026 | [Verify Certificate](https://coursera.org/verify/O70MBS0OXBNB) | [View PDF](certificates/Coursera_Introduction_to_OOP_with_Java.pdf) |
+| 4 | **Object-Oriented Hierarchies in Java** | Oct 4, 2026 | [Verify Certificate](https://coursera.org/verify/LUKTSDYESIKM) | [View PDF](certificates/Coursera_Object_Oriented_Hierarchies_in_Java.pdf) |
+
+---
+
+## 💻 Practical Code Repository Overview (Practicals 1 to 14)
 
 This repository contains complete, self-contained Java source files for Practicals 1 through 14 of the Object-Oriented Programming (CEUE203) course, covering core to advanced Java concepts and building towards the MiniBank console project.
 
